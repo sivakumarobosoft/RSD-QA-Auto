@@ -1,0 +1,16 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 349C-5EB4
+
+ Directory of C:\Users\Siva Kumar\eclipse-workspace\RSDiscovery
+
+18-02-2021  13:15    <DIR>          .
+18-02-2021  13:15    <DIR>          ..
+16-02-2021  21:51             1,066 .classpath
+17-02-2021  20:14               563 .project
+17-02-2021  20:14    <DIR>          .settings
+16-02-2021  22:01             3,191 pom.xml
+17-02-2021  20:14    <DIR>          src
+17-02-2021  20:14    <DIR>          target
+18-02-2021  13:15                 0 test1.txt
+               4 File(s)          4,820 bytes
+               5 Dir(s)  191,554,461,696 bytes free
